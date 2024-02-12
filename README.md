@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paxratdin Badratdin</h1>
+<h1 align="center">Hi 👋, I'm Paxratdin Badratdinov</h1>
 <h3 align="center">A passionate Paxratdin Badratdin I'm a python telegram bot developer</h3>
 
 <h3 align="left">Connect with me:</h3>
